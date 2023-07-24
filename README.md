@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rohit2396
+- 👋 Hi, I’m Rohit
 - 👀 I’m interested in Data Science/Analysis
 - 🌱 I’m currently learning DSMA
 - 📫 How to reach me rohit.rn1523@gmail.com
